@@ -9,6 +9,8 @@
 	<configs>
 		<config>src/main/java/learningtest/org/springframework/cache/book/cachetest-context.xml</config>
 		<config>src/main/java/learningtest/org/springframework/amqp/xml/context.xml</config>
+		<config>src/main/java/learningtest/cli/context.xml</config>
+		<config>src/main/java/learningtest/cli/context2.xml</config>
 	</configs>
 	<configSets>
 	</configSets>

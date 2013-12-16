@@ -42,4 +42,5 @@ public class SpringAMQPTest {
 
 		container.stop();
 	}
+
 }
